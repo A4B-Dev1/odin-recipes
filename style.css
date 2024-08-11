@@ -6,4 +6,7 @@ body{
 h1{
     text-align: Center;
 }
-
+#boarder{ 
+    width: 300px;
+    border: solid red 2px;
+}
